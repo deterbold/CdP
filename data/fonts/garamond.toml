@@ -1,0 +1,13 @@
+# Font style metadata
+name = "garamond"
+
+# Optional Google font URL
+google_fonts = "family=Hahmlet&family=IBM+Plex+Sans+Condensed:wght@500"
+
+# Font families
+heading_font = "IBM Plex Sans Condensed"
+
+body_font = "Hahmlet"
+nav_font = "Hahmlet"
+
+mono_font = "Hahmlet"

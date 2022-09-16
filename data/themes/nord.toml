@@ -1,0 +1,47 @@
+# Theme metadata
+name = "nord"
+
+[light]
+
+  # Primary
+  primary = "#FF4E4E"
+
+  link = "#FF4E4E"
+  link_hover = "#C64243"
+  # link_decoration = "underline"
+
+  # Menu
+  menu_primary = "#05257F"
+  menu_text = "#FFFFFF"
+  menu_text_active = "#361134"
+  menu_title = "#FFFFFF"
+
+  # Background
+  background = "#FFFFFF"
+
+  # Home sections
+  home_section_odd = "#FFFFFF"
+  home_section_even = "#FFFFFF"
+
+[dark]
+
+  # Primary
+  primary = "#ECEFF4"
+
+  link = "#ECEFF4"
+  link_hover = "#EBCB8B"
+  # link_decoration = "underline"
+
+  # Menu
+  menu_primary = "#ECEFF4"
+  menu_text = "#2E3440"
+  menu_text_active = "#5E81AC"
+  menu_title = "#5E81AC"
+
+  # Background
+  background = "#2E3440"
+
+  # Home sections
+  home_section_odd = "#2E3440"
+  home_section_even = "#2E3440"
+
