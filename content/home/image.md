@@ -18,7 +18,7 @@ subtitle:
 design:
   columns: '1'
   background:
-    image: 270821 Games Lab _6.jpg
+    image: 270821GamesLab_6.jpg
     image_darken: 0
     image_parallax: false
     image_position: center

@@ -23,7 +23,7 @@ content:
         position: right
         color: '#02063C'
         brightness: 0.6
-        media: "270821 Games Lab _5.jpg"
+        media: "270821GamesLab_5.jpg"
         fit:  cover
     - title: <p class = "smallerTitle">Inclusivity and Diversity</p>
       content: <p class = "smallerText">The Center for Computer Games Research values and promotes diversity in its research, work processes, and hiring practices. </p>
@@ -32,7 +32,7 @@ content:
         position: right
         color: '#02063C'
         brightness: 0.6
-        media: "270821 Games Lab .jpg"
+        media: "270821GamesLab.jpg"
         fit:  cover
     - title: <p class = "smallerTitle">Equity</p>
       content: <p class = "smallerText">The Center for Computer Games Research works towards creating more equality in research and industry, through academic work, public outreach, and industry collaborations.</p>
@@ -41,7 +41,7 @@ content:
         position: center
         color: '#02063C'
         brightness: 0.6
-        media: "270821 Games Lab _2.jpg"
+        media: "270821GamesLab_2.jpg"
         fit:  cover
     - title: <p class = "smallerTitle">Development</p>
       content: <p class = "smallerText">The Center for Computer Games Research is an environment where junior scholars can thrive and find support in their intellectual and career development.</p>
@@ -50,7 +50,7 @@ content:
         position: center
         color: '#02063C'
         brightness: 0.6
-        media: "270821 Games Lab _6.jpg"
+        media: "270821GamesLab_6.jpg"
         fit:  cover
     - title: <p class = "smallerTitle">Balance</p>
       content: <p class = "smallerText">The Center for Computer Games Research respects and encourages work/life balance, and aspires to create a healthy and inspiring work environment where faculty at all levels, from PhD and part-time lecturers to Full Professors, can thrive.</p>
@@ -59,7 +59,7 @@ content:
         position: center
         color: '#02063C'
         brightness: 0.4
-        media: "270821 Games Lab _1.jpg"
+        media: "270821GamesLab_1.jpg"
         fit:  cover
     - title: <p class = "smallerTitle">Sustainability</p>
       content: <p class = "smallerText">The Center for Computer Games Research commits to research, education, and work practices that contribute to the green transition. </p>
@@ -68,6 +68,6 @@ content:
         position: center
         color: '#02063C'
         brightness: 0.4
-        media: "270821 Games Lab _3.jpg" 
+        media: "270821GamesLab_3.jpg" 
         fit:  cover
 ---
