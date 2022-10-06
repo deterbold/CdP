@@ -1,6 +1,6 @@
 ---
 # Insert here the title of the event
-itle: Title of the event / activity
+title: Title of the event / activity
 
 # Insert here the type of event or activity
 event: Type of event / activity
