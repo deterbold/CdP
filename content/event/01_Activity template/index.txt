@@ -1,4 +1,6 @@
 ---
+# REMEMBER TO CHANGE THE FILE TYPE FROM .txt TO .md BEFORE COMMITTING THE ACTIVITY
+
 # Insert here the title of the event
 title: Title of the event / activity
 
