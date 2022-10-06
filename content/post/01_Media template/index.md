@@ -14,7 +14,7 @@ featured: true
 profile: false
 
 #Use the "media" tag to display the post, add any other relevant tag, for example "podcast"
-tags: ["", "media"]
+tags: ["podcast", "media"]
 
 # Don't edit this
 image:
