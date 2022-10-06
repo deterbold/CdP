@@ -13,6 +13,9 @@ event_url:
 profile: false
 share: false
 
+# Set to true to display the event
+active: false
+
 # Change the location and address of the event
 location: Event location
 address: 
