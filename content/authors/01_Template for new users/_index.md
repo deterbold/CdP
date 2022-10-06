@@ -55,10 +55,12 @@ social:
 email: ""
 
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+# Use only the test group if you don't want your profile to be diplayed
+# If you want your profile to be displayed, ask the head of department for which user group to use
 user_groups:
 - test
-- Members
+- 
+
 ---
 
-Current research interests: Games, culture, social media, transgressive aesthetics, and affect and emotion, and how these concepts affect each other.
+Use this space underneath the '---' to add any information you might want in your personal page. 
