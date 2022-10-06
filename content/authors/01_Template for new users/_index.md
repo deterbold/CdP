@@ -1,0 +1,64 @@
+---
+# Display name
+title: Your surname, Your name
+
+# Username (this should match the folder name)
+authors: 
+- 01_Template for new users
+
+# Is this the primary user of the site? (don't change)
+superuser: false
+
+# Role/position
+role: your role inside CDP
+
+# Organizations/Affiliations (add as many as you want)
+organizations:
+- name: IT University of Copenhagen
+  url: "https://www.itu.dk/"
+- name: 
+  url: 
+
+# Short bio (displayed in user profile at end of posts)
+bio: 
+
+# Interests (add after the '-')
+interests:
+- 
+-
+-
+-
+
+# Delete the icons you are not using, you can also add new ones fitting your needs by browsing https://fontawesome.com/icons (more than 4/5 icons are not advised)
+social:
+- icon: envelope
+  icon_pack: fas
+  link: 
+- icon: google-scholar
+  icon_pack: ai
+  link: 
+- icon: external-link-alt
+  icon_pack: fas
+  link: 
+- icon: house-user
+  icon_pack: fas
+  link: 
+- icon: twitter
+  icon_pack: fab
+  link: 
+- icon: github
+  icon_pack: fab
+  link: 
+
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ""
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+- test
+- Members
+---
+
+Current research interests: Games, culture, social media, transgressive aesthetics, and affect and emotion, and how these concepts affect each other.
