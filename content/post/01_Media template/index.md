@@ -6,7 +6,7 @@ title: Title of the media
 subtitle: Short description of the media
 
 # Insert here a date of publishing, relevant for the order of display
-date: 2022-06-07T10:07:33.677Z
+date: 2022-10-06T10:07:33.677Z
 
 # Don't edit this
 draft: false
