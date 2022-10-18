@@ -39,24 +39,21 @@ education:
 
 # Delete the icons you are not using, you can also add new ones fitting your needs by browsing https://fontawesome.com/icons (more than 4/5 icons are not advised); remove the ones you are not using
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 
 - icon: google-scholar
   icon_pack: ai
-  link: 
+  link: https://scholar.google.com/citations?user=XvKrfvUAAAAJ
 - icon: external-link-alt
   icon_pack: fas
-  link: 
+  link: https://orcid.org/0000-0003-0709-0777
 - icon: house-user
   icon_pack: fas
-  link: 
+  link: https://sites.google.com/view/leon-xiao/
 - icon: twitter
   icon_pack: fab
-  link: 
-- icon: github
+  link: https://twitter.com/LeonXiaoY
+- icon: researchgate
   icon_pack: fab
-  link: 
+  link: https://www.researchgate.net/profile/Leon-Xiao-3
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
