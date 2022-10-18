@@ -24,10 +24,23 @@ bio:
 
 # Interests (add after the '-')
 interests:
-- 
+- your interest here
 -
 -
 -
+
+# Education (add after the '-')
+education:
+  courses:
+  - course: your course
+    institution: your education
+    year: graduation year
+  - course: 
+    institution: 
+    year: 
+  - course: 
+    institution: 
+    year: 
 
 # Delete the icons you are not using, you can also add new ones fitting your needs by browsing https://fontawesome.com/icons (more than 4/5 icons are not advised)
 social:
@@ -59,7 +72,7 @@ email: ""
 # If you want your profile to be displayed, ask the head of department for which user group to use
 user_groups:
 - test
-- 
+- member
 
 ---
 
