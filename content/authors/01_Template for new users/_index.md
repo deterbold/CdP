@@ -19,9 +19,6 @@ organizations:
 - name: 
   url: 
 
-# Short bio (displayed in user profile at end of posts)
-bio: 
-
 # Interests (add after the '-'), remove any extra '-' you are not using
 interests:
 - your interest here
