@@ -59,6 +59,10 @@ social:
 - icon: github
   icon_pack: fab
   link: 
+- icon: researchgate
+  icon_pack: fab
+  link: 
+
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
