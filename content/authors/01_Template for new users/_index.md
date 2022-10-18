@@ -72,7 +72,7 @@ email: ""
 # If you want your profile to be displayed, ask the head of department for which user group to use
 user_groups:
 - test
-- members
+- Members
 
 ---
 
