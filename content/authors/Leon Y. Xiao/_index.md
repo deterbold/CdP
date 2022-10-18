@@ -19,9 +19,6 @@ organizations:
 - name: 
   url: 
 
-# Short bio (displayed in user profile at end of posts)
-bio: Leon Y. Xiao is a PhD Fellow at the IT University of Copenhagen and a Visiting Scholar at the School of Law of Queen Mary University of London. He researches video game law, particularly the regulation of loot boxes, a quasi-gambling monetisation mechanic in video games. He has appeared before the Law Commission of England and Wales and submitted policy recommendations to the Spanish, Singaporean, and UK Governments. He has met with and discussed policy, regulation and enforcement with Belgian, Danish, and UK regulators and policymakers.
-
 # Interests (add after the '-'), remove any extra '-' you are not using
 interests:
 - Loot boxes
@@ -72,8 +69,8 @@ user_groups:
 - Members
 
 ---
-Leon's research has been covered by The Times, The Guardian, NME (New Musical Express), and leading video game media, including GamesIndustry.biz, Gamespot, Eurogamer, and Game Developer, amongst others. He was named a Game Changer by GamesIndustry.biz for his policy advocacy.
+Leon Y. Xiao is a PhD Fellow at the IT University of Copenhagen and a Visiting Scholar at the School of Law of Queen Mary University of London. He researches video game law, particularly the regulation of loot boxes, a quasi-gambling monetisation mechanic in video games. He has appeared before the Law Commission of England and Wales and submitted policy recommendations to the Spanish, Singaporean, and UK Governments. He has met with and discussed policy, regulation and enforcement with Belgian, Danish, and UK regulators and policymakers.
 
- 
+Leon's research has been covered by The Times, The Guardian, NME (New Musical Express), and leading video game media, including GamesIndustry.biz, Gamespot, Eurogamer, and Game Developer, amongst others. He was named a Game Changer by GamesIndustry.biz for his policy advocacy.
 
 Leon is an Associate Fellow of the Higher Education Academy (AFHEA) and has taught tort law at Queen Mary University of London. Previously, he was a Lord Denning Scholar at The Honourable Society of Lincoln’s Inn and held visiting appointments at KU Leuven in Belgium and The Jagiellonian University in Poland.
