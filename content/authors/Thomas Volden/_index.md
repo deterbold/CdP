@@ -1,31 +1,23 @@
 ---
-# Display name 
-# MODIFY:
-title: Thomas Vase Schultz Volden
+# Display name
+title: Thomas, Vase Schultz Volden
 
-# MODIFY:
-authors:
-- Thomas Vase Schultz Volden
+# Username (this should match the folder name)
+authors: 
+- Thomas Volden
 
-# Is this the primary user of the site?
+# Is this the primary user of the site? (don't change)
 superuser: false
 
-# Role/position/tagline
-# MODIFY:
+# Role/position
 role: PhD Student
-user_groups: ["PhD Students"]
 
-# Organizations/Affiliations to show in About widget
+# Organizations/Affiliations (add as many as you want)
 organizations:
 - name: IT University of Copenhagen
-  url: https://www.itu.dk/
+  url: "https://www.itu.dk/"
 
-# Short bio (displayed in user profile at end of posts)
-# MODIFY:
-bio: PhD Student studying learning analytics, procedural content generation and games.
-
-# Interests to show in About widget
-# MODIFY:
+# Interests (add after the '-'), remove any extra '-' you are not using
 interests:
 - Learning Analytics
 - Procedural Content Generation
@@ -33,25 +25,17 @@ interests:
 - Artificial Intelligence
 - Neuroscience
 
-# Education to show in About widget
-# UNCOMMENT AND MODIFY IF YOU WANT TO:
-# education:
-#   courses:
+# Education (add after the '-'), remove any extra courses that you are not using
+education:
+  courses:
    - course: M.Sc. in Games - Technology
      institution: IT-University
      year: 2022
    - course: B.Eng. Information Technology
      institution: Technical University of Denmark
      year: 2010
-#   - course: BSc in Artificial Intelligence
-#     institution: Massachusetts Institute of Technology
-#     year: 2008
 
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-# MODIFY: add your mail, pure and Google Scholar if you want.
+# Delete the icons you are not using, you can also add new ones fitting your needs by browsing https://fontawesome.com/icons (more than 4/5 icons are not advised); remove the ones you are not using
 social:
 - icon: envelope
   icon_pack: fas
@@ -65,14 +49,19 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/TVolden
-# - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-#   icon_pack: fas
-#   link: https://scholar.google.dk/citations?user=smoQomYAAAAJ&hl=da
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "thvo@itu.dk"
 
-# Highlight the author in author lists? (true/false)
-highlight_name: false
+
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ""thvo@itu.dk""
+
+# Organizational groups that you belong to (for People widget)
+# Use only the test group if you don't want your profile to be diplayed
+# If you want your profile to be displayed, ask the head of department for which user group to use
+user_groups:
+- test
+- 
+
 ---
 
 I'm a husband and dad of two, who recently decided to deviate from my professional career to pursue an academic career instead.
