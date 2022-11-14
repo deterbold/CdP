@@ -53,17 +53,15 @@ social:
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""thvo@itu.dk""
+email: "thvo@itu.dk"
 
 # Organizational groups that you belong to (for People widget)
 # Use only the test group if you don't want your profile to be diplayed
 # If you want your profile to be displayed, ask the head of department for which user group to use
 user_groups:
 - Members
-- 
 
 ---
-
 I'm a husband and dad of two, who recently decided to deviate from my professional career to pursue an academic career instead.
 
 I have worked as a professional developer for more than ten years. I have worked in various industries like mobility, finance, hosting and security.
