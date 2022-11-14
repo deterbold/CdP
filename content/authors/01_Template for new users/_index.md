@@ -68,7 +68,7 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
-# Organizational groups that you belong to (for People widget)
+# Organizational groups that you belong to (for People widget), the default group to be displayed is 'Members'
 # Use only the test group if you don't want your profile to be diplayed
 # If you want your profile to be displayed, ask the head of department for which user group to use
 user_groups:
