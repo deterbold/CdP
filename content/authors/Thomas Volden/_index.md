@@ -59,7 +59,7 @@ email: ""thvo@itu.dk""
 # Use only the test group if you don't want your profile to be diplayed
 # If you want your profile to be displayed, ask the head of department for which user group to use
 user_groups:
-- test
+- Members
 - 
 
 ---
