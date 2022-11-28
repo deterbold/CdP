@@ -29,13 +29,7 @@ address:
 
 
 summary: Introductory talks by the representatives of each research group inside the CDP
-abstract: Play is at the heart of our experience of digital technologies. Whether it is playing around with Artificial Intelligence systems that create texts and images, like DALL-E or GPT-3, engaging in the role-playing mechanics of social media, playing with computers and digital artefacts has a critical role in shaping the digital society. Digital play is an intrinsic yet understudied phenomenon in digital societies, and the play perspective can provide novel insights into the uses and design of computer games, gamification, and game-trained AI; and into the practices of the many communities and users which engage in playful practices as part of their everyday life and cultural engagement.
-
-The Center for Digital Play’s ambition is to define what it means to study of play in digital societies from a multidisciplinary perspective. Novel phenomena require novel methods and theories, and the purpose of the Center for Digital Play is to become a reference in the present and future of play and game studies.
-
-The Center for Digital Play is a new research center at the IT University that studies the role of play in shaping digital societies, from artificial intelligence and games to arts and social practices.
-
-The Center for Digital Play is formed by 4 research groups that collaborate in the study of play in digital societies, approaching this topic from a multidisciplinary perspective that encompasses computer science, the humanities, social sciences, psychology, and design research.
+abstract: 
 
 # Insert here the event start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
