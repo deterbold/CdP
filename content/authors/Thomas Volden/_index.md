@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Thomas, Vase Schultz Volden
+title: Volden, Thomas Vase Schultz
 
 # Username (this should match the folder name)
 authors: 
@@ -43,14 +43,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/thomasvolden/
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/l0wl3jf
 - icon: github
   icon_pack: fab
   link: https://github.com/TVolden
-
-
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "thvo@itu.dk"
