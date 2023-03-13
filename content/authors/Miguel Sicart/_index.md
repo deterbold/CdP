@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Associate Professor and Head of Center
+role: Head of Center
 
 # Organizations/Affiliations
 organizations:
