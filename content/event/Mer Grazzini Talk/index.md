@@ -33,12 +33,12 @@ abstract: Culture is always indivisible from the socio-political and economic re
 
 # Insert here the event start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-09-4T15:30:00Z'
+date: '2023-09-04T15:30:00Z'
 #date_end: '2022-09-15T13:00:00Z'
 all_day: false
 
 # Schedule page publish date, put your current date to have it uploaded instanty
-publishDate: '2023-09-4T15:30:00Z'
+publishDate: '2022-11-23T13:00:00Z'
 
 # Don't edit this
 authors: []
