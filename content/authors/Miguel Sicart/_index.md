@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Head of Center
+role: Professor, Head of Center
 
 # Organizations/Affiliations
 organizations:
@@ -23,7 +23,7 @@ bio: Miguel Sicart studies play.
 interests:
 - Digital play
 - Ethics
-- Playful Critical Technical Practice
+- Critical Technical Practice
 - Artificial Intelligence
 - Ridiculous Software
 - Playable Media

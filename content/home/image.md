@@ -18,7 +18,7 @@ subtitle:
 design:
   columns: '1'
   background:
-    image: 270821GamesLab_6.jpg
+    image: atriumgrandview.jpg
     image_darken: 0
     image_parallax: false
     image_position: center
