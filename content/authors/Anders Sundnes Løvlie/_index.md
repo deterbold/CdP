@@ -14,8 +14,8 @@ role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-- name: The GIFT Project
-  url: "/project/gift/"
+# - name: The GIFT Project
+#   url: "/project/gift/"
 - name: IT University of Copenhagen
   url: "https://www.itu.dk/"
 
@@ -23,13 +23,13 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Locative media
-- Media/communication design
-- Playful design
-- Journalism and media studies
-- Museum experiences
-- Design and innovation in the media industries
-- Online debate
+- Experience Design
+- Human-Computer Interaction
+- Museum Experiences
+- Artificial Intelligence
+- Playful Design
+- Digital Journalism
+- Locative Media
 
 #education:
   #courses:
