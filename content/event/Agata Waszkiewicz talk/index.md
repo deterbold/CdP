@@ -19,7 +19,7 @@ share: false
 active: true
 
 # Change the location and address of the event
-location: IT University of Copenhagen, Auditorium 4
+location: IT University of Copenhagen, Auditorium 3
 address: 
   street: 
   city: 
