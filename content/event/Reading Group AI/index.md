@@ -19,21 +19,21 @@ share: false
 active: true
 
 # Change the location and address of the event
-location: IT University of Copenhagen
+location: ITU Campus
 address: 
-  street: 
-  city: 
-  region: 
-  postcode: 
-  country: 
+  street: Rued Langgaards Vej 7 
+  city: Copenhagen
+  region: Copenhagen
+  postcode: 2300
+  country: Denmark
 
 
 summary: The Center for Digital Play meets and discusses classic and modern critical AI texts.
-abstract: This reading group will meet and discuss classic and contemporary critical AI texts. The reading group is intended for the Center for Digital Play faculty. However, there may be open spots for guests. Inquiries should be directed to Miguel Sicart via email (miguelATituDOTdk). 
+abstract: This reading group will meet and discuss classic and contemporary critical AI texts. The reading group organized by and for the faculty of the Center for Digital Play. However, a limited amount of guests are welcome. For inquiries, please contact Miguel Sicart (miguel_AT_itu_DOT_dk).
 
 # Insert here the event start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-10-3T13:00:00Z'
+date: '2023-10-03T13:00:00Z'
 #date_end: '2022-09-15T13:00:00Z'
 all_day: false
 
