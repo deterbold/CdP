@@ -33,7 +33,7 @@ abstract: Food is never just food, it “matters. It has weight and it weights u
 
 # Insert here the event start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-09-08T13:00:00Z'
+date: '2023-09-08T15:30:00Z'
 #date_end: '2022-09-15T13:00:00Z'
 all_day: false
 
