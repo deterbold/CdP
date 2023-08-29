@@ -30,6 +30,7 @@ address:
 
 summary: The Center for Digital Play meets and discusses classic and modern critical AI texts.
 abstract: This reading group will meet and discuss classic and contemporary critical AI texts. The reading group organized by and for the faculty of the Center for Digital Play. However, a limited amount of guests are welcome. For inquiries, please contact Miguel Sicart (miguel_AT_itu_DOT_dk).
+
 _Reading List_
 
 Edwards, P. N. (1996), The Closed World. Computers and the Politics of Discourse in Cold War America. The MIT Press - Chapter 8, “Constructing Artificial Intelligence”, pp. 239-273
