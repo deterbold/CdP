@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: PhD fellow
 
 # Organizations/Affiliations (add as many as you want)
 organizations:
@@ -19,11 +19,10 @@ organizations:
 
 # Interests (add after the '-'), remove any extra '-' you are not using
 interests:
-- Learning Analytics
 - Procedural Content Generation
-- Game analytics
-- Artificial Intelligence
-- Neuroscience
+- Player modeling
+- Adaptive Puzzle Games
+- Large Language Models
 
 # Education (add after the '-'), remove any extra courses that you are not using
 education:
@@ -61,7 +60,7 @@ I'm a husband and dad of two, who recently decided to deviate from my profession
 
 I have worked as a professional developer for more than ten years. I have worked in various industries like mobility, finance, hosting and security.
 
-In the summer of 2022 I received my masters degree in Games from ITU and immediately applied for an industrial PhD project which I started mid August 2022.
-The subject of the project is to optimize learning for young children with games, learning analytics and procedural content generation.
+In the summer of 2022 I received my masters degree in Games from ITU and immediately applied for an PhD project which I started mid August 2022.
+The subject of the project is to optimize learning for young children with adaptive games, player modeling and procedural content generation.
 
 In my spare time I teach children how to code and make games as a volunteer at [Coding Pirates](https://codingpirates.dk/) - Ballerup.
