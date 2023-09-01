@@ -48,6 +48,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/TVolden
+- icon: mastodon
+  icon_pack: fab
+  link: https://social.itu.dk/@tvolden
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "thvo@itu.dk"
