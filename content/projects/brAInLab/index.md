@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "ITU brAIn lab"
-summary: "The ITU brAIn lab is a space and a group of people with a common interest in research and education at the crossroad between machine learning, psychophysiology, neuroscience and cognition. Within the lab, researchers and students collaborate to develop computational models of different aspects of the human mind and design experiments to capture and synthesise the user experience in complex digital media like video games and virtual reality. How to measure difficulty in games? how to quantify learning? How can we model and predict human emotions? These are among the many questions that we try to answer in the lab through our experiments and models."
+summary: "The ITU brAIn lab is a space and a group of people with a common interest in research and education at the crossroad between machine learning, psychophysiology, neuroscience and cognition. Within the lab, researchers and students collaborate to develop computational models of different aspects of the human mind and design experiments to capture and synthesise the user experience in complex digital media like video games and virtual reality."
 authors: []
 tags: ["brain"]
 categories: []

@@ -33,6 +33,9 @@ education:
    - course: B.Eng. Information Technology
      institution: Technical University of Denmark
      year: 2010
+   - course: Journeyman Data Technician
+     institution: TEC Ballerup
+     year: 2006
 
 # Delete the icons you are not using, you can also add new ones fitting your needs by browsing https://fontawesome.com/icons (more than 4/5 icons are not advised); remove the ones you are not using
 social:
