@@ -6,17 +6,26 @@ superuser: false
 authors:
   - Hanna Wirman
 title: Wirman, Hanna
-role: Associate Professor
+role: Associate Professor, Head of GAMES Study Program
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: I study how a cultural and social context influences both what people design and how they play. Being educated in Media and Cultural Studies, I find it exciting to explore how play fits into our everyday lives and what part gender plays in this. The topic I have studied the most is game fandom and fans' participation in game development. Through my future research I wish to understand the differences and similarities between human play and animal play. This is something that two Bornean orangutans in Indonesia helped me to start exploring already in 2011. Alongside my own research, I find it important to support the community of games researchers and have been a member of the DiGRA Executive Board for more than 10 years currently serving as the President of DiGRA. I also make games with serious topics as part of research projects and in other small productions.
+Education
+
+PhD in Media and Cultural Studies, 2011
+University of the West of England, UK
+ 
+M.A. in Media Studies and Information Technology, 2005
+University of Lapland, Finland
+
 interests:
   - Game design
   - Game cultures
-  - New media
+  - Gender
   - Critical theory
   - Ethnography
-  - Design research
+  - Fan cultures
+  - Serious games
+  - Non-human animal play
 social:
   - icon: envelope
     icon_pack: fas
@@ -37,4 +46,4 @@ user_groups:
   - Members
 ---
 
-Current research interests: Gender, Identity, Co-creativity, Co-design, Participatory cultures, Fan cultures, Mobile games, Pervasive games, Non-human animal play.
+Current research interests: game design, game cultures, gender, critical theory, ethnography, fan cultures, serious games, non-human animal play.
