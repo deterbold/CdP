@@ -42,6 +42,8 @@ content:
       tag: media
     - name: Digitalis
       tag: metaverse
+    - name: brAIn
+      tag: brain
 
   # Default filter toolbar button (e.g. 0 corresponds to the first `filter_button` instance above)
   filter_default: 0
