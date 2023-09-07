@@ -20,6 +20,7 @@ interests:
   - Fan cultures
   - Serious games
   - Non-human animal play
+
 social:
   - icon: envelope
     icon_pack: fas
@@ -40,4 +41,4 @@ user_groups:
   - Members
 ---
 
-Current research interests: game design, game cultures, gender, critical theory, ethnography, fan cultures, serious games, non-human animal play.
+Current research interests - game design, game cultures, gender, critical theory, ethnography, fan cultures, serious games, non-human animal play.

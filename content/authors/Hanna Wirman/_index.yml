@@ -1,0 +1,74 @@
+---
+# Display name
+title: Wirman,
+
+# Username (this should match the folder name)
+authors:
+- Hanna Wirman
+
+# Is this the primary user of the site?
+superuser: false
+
+# Role/position
+role: Associate Professor, Head of Study Program
+
+# Organizations/Affiliations
+organizations:
+- name: IT University of Copenhagen
+  url: "https://www.itu.dk/"
+
+# Short bio (displayed in user profile at end of posts)
+bio: I study how a cultural and social context influences both what people design and how they play. Being educated in Media and Cultural Studies, I find it exciting to explore how play fits into our everyday lives and what part gender plays in this. The topic I have studied the most is game fandom and fans' participation in game development. Through my future research I wish to understand the differences and similarities between human play and animal play. This is something that two Bornean orangutans in Indonesia helped me to start exploring already in 2011. Alongside my own research, I find it important to support the community of games researchers and have been a member of the DiGRA Executive Board for more than 10 years currently serving as the President of DiGRA. I also make games with serious topics as part of research projects and in other small productions.
+Education
+
+interests:
+- Game ontology
+- Self-referentiality and meta-referentiality 
+- Ecocritical approaches to games 
+- Comic-Games and Game-Comics
+- Game Characters
+- Game Spatiality
+- Narrative theory and Media theory
+
+
+#education:
+  #courses:
+  #- course: PhD in Artificial Intelligence
+    #institution: Stanford University
+    #year: 2012
+  #- course: MEng in Artificial Intelligence
+    #institution: Massachusetts Institute of Technology
+    #year: 2009
+  #- course: BSc in Artificial Intelligence
+    #institution: Massachusetts Institute of Technology
+    #year: 2008
+
+# Social/Academic Networking
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+social:
+- icon: envelope
+  icon_pack: fas
+  link: mailto:wirman@itu.dk
+- icon: external-link-alt
+  icon_pack: fas
+  link: https://pure.itu.dk/en/persons/hanna-elina-wirman(9ba013db-4c4d-41dd-be12-dbe188f67f29).html 
+
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ""
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+- Professors
+- Members
+---
+
+Current research interests - game design, game cultures, gender, critical theory, ethnography, fan cultures, serious games, non-human animal play.
