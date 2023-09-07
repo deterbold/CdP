@@ -33,7 +33,7 @@ abstract: We have all been there - watching an episode of our favorite crime ser
 
 # Insert here the event start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-10-26T16:00:00Z'
+date: '2023-10-26T16:00:00Z'
 #date_end: '2022-09-15T13:00:00Z'
 all_day: false
 
