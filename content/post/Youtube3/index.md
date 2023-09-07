@@ -6,7 +6,7 @@ title: Crisis and Games, a talk by Mer Grazzini
 subtitle: Game designer, artist, and community organizer Mer Grazzini gives a talk about the game scene in Argentina
 
 # Insert here a date of publishing, relevant for the order of display
-date: 2023-09-07T9:07:33.677Z
+date: 2023-09-06T9:07:33.677Z
 
 # Don't edit this
 draft: false
@@ -14,7 +14,7 @@ featured: true
 profile: false
 
 #Use the "media" tag to display the post, add any other relevant tag, for example "podcast"
-tags: ["", ""]
+tags: ["media", "talk"]
 
 # Don't edit this
 image:
