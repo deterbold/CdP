@@ -2,7 +2,7 @@
 # REMEMBER TO CHANGE THE FILE TYPE FROM .txt TO .md BEFORE COMMITTING THE ACTIVITY
 
 # Insert here the title of the event
-title: Critical Food Studies - A Talk by Agata Waszkiewicz
+title: Critical Food Game Studies - A Talk by Agata Waszkiewicz
 
 # Insert here the type of event or activity
 event: Talk
@@ -28,7 +28,7 @@ address:
   country: 
 
 
-summary: Critical Food Studies - A Talk by Agata Waszkiewicz
+summary: Critical Food Game Studies - A Talk by Agata Waszkiewicz
 abstract: Food is never just food, it “matters. It has weight and it weights us down.” (Belasco, 2008, p. 2). Critical food studies recognizes that food is more than the sum of calories and its nutritional value and it cannot be divorced from its larger social context. It influences the way humans construct and perform culture, social relations, and individual identities. Food is an intersectional issue and the practices and hierarchies of its preparation and consumption are inherently gendered, racialized, and relate strongly to social class. In the talk, I show that the same is true about its representation in video games. With food and cooking mechanics currently being often present in a variety of genres from cooking games, through dating simulators, to action and adventure games, it predominantly perpetuates gender and racial perceptions of who, how, where, and makes and consumes food.
 
 # Insert here the event start and end times.

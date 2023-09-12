@@ -1,6 +1,6 @@
 ---
 # Insert here the title of you piece of media
-title: Critical Food Studies, a talk by Agata Waszkiewicz
+title: Critical Food Game Studies, a talk by Agata Waszkiewicz
 
 # Insert here the title of you piece of media
 subtitle: Agata Waszkiewicz, Ph.D. (they/them) is a game scholar whose interests include metafictional and experimental video games, the representation of non-normative identities in digital games, and the intersections between food and game studies. Their book Delicious Pixels was published in 2022 as part of Video Games and the Humanities series by De Gruyter. They currently hold the position of a Secretary of DiGRA Central Eastern Europe chapter.
