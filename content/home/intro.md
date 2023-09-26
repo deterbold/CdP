@@ -14,8 +14,6 @@ design:
     gradient_start: ''
     gradient_end: ''
     gradient_angle: 30
-    # Text color (true=light, false=dark, or remove for the dynamic theme color).
-    text_color_light: true
 
 ---
 <div class="row">
