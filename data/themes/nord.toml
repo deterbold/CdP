@@ -6,8 +6,8 @@ name = "nord"
   # Primary
   primary = "#FF4E4E"
 
-  link = "#FF4E4E"
-  link_hover = "#C64243"
+  link = "#ECEFF4"
+  link_hover = "#ECEFF4"
   # link_decoration = "underline"
 
   # Menu
