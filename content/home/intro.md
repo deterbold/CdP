@@ -28,7 +28,7 @@ design:
     <h2></h2>
     <p >
 
-> The CDP is a research environment that studies play and its role of shaping the technology and culture in digital societies, from Machine Learning being trained on games to the communities and practices around videogames.
+> The CDP is a research environment that studies play and its role of shaping the technology and culture in digital societies, from Machine Learning being trained on games to the communities and practices around videogames. Sign up to [our Monthly newsletter](https://buttondown.email/DigitalPlayITU)
     </p>
   </div>
 </div>
