@@ -17,8 +17,7 @@ name = "nord"
   menu_title = "#FFFFFF"
 
   # Background
-  #background = "#FFFFFF"
-  background = "#0f0f0f"
+  background = "#FFFFFF"
 
   # Home sections
   home_section_odd = "#FFFFFF"
