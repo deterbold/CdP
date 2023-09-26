@@ -8,7 +8,7 @@ name = "nord"
 
   link = "#ECEFF4"
   link_hover = "#ECEFF4"
-  # link_decoration = "underline"
+  link_decoration = "underline"
 
   # Menu
   menu_primary = "#05257F"
