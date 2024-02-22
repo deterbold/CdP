@@ -40,8 +40,8 @@ content:
       tag: ai
     - name: MAD
       tag: media
-    - name: Digitalis
-      tag: metaverse
+    # - name: Digitalis
+    #   tag: metaverse
     - name: brAIn
       tag: brain
 
