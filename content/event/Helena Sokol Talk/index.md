@@ -35,7 +35,7 @@ abstract: The Danish game industry is, in the light of recent increased politica
 
 # Insert here the event start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-02-02T15:00:00Z'
+date: '2024-04-05T16:00:00Z'
 #date_end: '2022-09-15T13:00:00Z'
 all_day: false
 
