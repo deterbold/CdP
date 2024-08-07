@@ -41,8 +41,8 @@ social:
   icon_pack: fas
   link: mailto:stpo@itu.dk
 - icon: linkedin
-- icon_pack: fab
-- link: https://www.linkedin.com/in/mmarksp/
+  icon_pack: fab
+  link: https://www.linkedin.com/in/mmarksp/
 - icon: external-link-alt
   icon_pack: fas
   link: https://markstaunpoulsen.wordpress.com/
