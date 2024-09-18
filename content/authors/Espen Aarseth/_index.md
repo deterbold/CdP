@@ -68,8 +68,8 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Professors
-- CCGR Members
-- Members
+#- CCGR Members
+- Former Members
 ---
 
 My current research concerns ideological, narrative, semiotic and ontological aspects of games and game communication, as well as topics such as game addiction, games and meaning, and also digital literature culture and aesthetics (what some people used to call "new media" 15-20 years ago).
