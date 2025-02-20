@@ -2,7 +2,7 @@
 # REMEMBER TO CHANGE THE FILE TYPE FROM .txt TO .md BEFORE COMMITTING THE ACTIVITY
 
 # Insert here the title of the event
-title: Postdigital playthings\: what can toys tell us about games? - A Talk by Seth Giddings
+title: Postdigital playthings_ what can toys tell us about games? - A Talk by Seth Giddings
 
 # Insert here the type of event or activity
 event: Talk
