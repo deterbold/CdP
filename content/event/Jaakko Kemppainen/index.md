@@ -8,7 +8,7 @@ title: "This game is difficult! - Three perspectives on difficulty in games"
 event: Talk
 
 # If the event has an external url place it here
-# event_url:
+event_url:
 
 # Don't edit these ones
 profile: false
