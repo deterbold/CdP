@@ -2,7 +2,7 @@
 title: ACTIVITIES
 
 # Listing view
-view: showcase #compact
+view: compact #showcase
 
 # Optional header image (relative to `assets/media/` folder).
 banner:
