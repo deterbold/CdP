@@ -2,7 +2,7 @@
 # REMEMBER TO CHANGE THE FILE TYPE FROM .txt TO .md BEFORE COMMITTING THE ACTIVITY
 
 # Insert here the title of the event
-title: "'This game is difficult!' - Three perspectives on difficulty in games"
+title: "This game is difficult! - Three perspectives on difficulty in games"
 
 # Insert here the type of event or activity
 event: Talk
