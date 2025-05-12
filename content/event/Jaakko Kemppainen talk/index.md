@@ -2,7 +2,7 @@
 # REMEMBER TO CHANGE THE FILE TYPE FROM .txt TO .md BEFORE COMMITTING THE ACTIVITY
 
 # Insert here the title of the event
-title: This game is difficult! - Three perspectives on difficulty in games
+title: This game is difficult - Three perspectives on difficulty in games
 
 # Insert here the type of event or activity
 event: Talk
@@ -19,7 +19,7 @@ share: false
 active: true
 
 # Change the location and address of the event
-location: IT University of Copenhagen, Auditorium 3 (2A56)
+location: Auditorium 3, IT University of Copenhagen
 address: 
   street: Rued Langgaards Vej 7
   city: Copenhagen S
