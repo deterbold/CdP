@@ -28,7 +28,7 @@ address:
   country: 
 
 summary: Every now and then we encounter a game or other challenge, which feels very difficult for us. There are several forms and sources of difficulty, from rules to one\'s physical qualities. This talk discusses a syntactic-semantic-pragmatic model for understanding difficulty in games.
-abstract: Jaakko Kemppainen has almost a quarter of century of experience on working with games. He has worked over 15 years in games industry, mostly in different designer roles. He has participated in the development of almost 30 games on different platforms and genres. For five years he worked as the first Regional artist of games, promoting games as an art form, curating exhibitions and events and talking about games. He has written three books and several articles about games and game design. Currently he is teaching game design at Aalto University.
+abstract: Every now and then we encounter a game or other challenge, which feels very difficult for us. There are several forms and sources of difficulty, from rules to one\'s physical qualities. This talk discusses a syntactic-semantic-pragmatic model for understanding difficulty in games.
 
 # Insert here the event start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -65,3 +65,4 @@ slides:
 # Don't edit these ones
 projects:
 ---
+About the speaker: Jaakko Kemppainen has almost a quarter of century of experience on working with games. He has worked over 15 years in games industry, mostly in different designer roles. He has participated in the development of almost 30 games on different platforms and genres. For five years he worked as the first Regional artist of games, promoting games as an art form, curating exhibitions and events and talking about games. He has written three books and several articles about games and game design. Currently he is teaching game design at Aalto University."
