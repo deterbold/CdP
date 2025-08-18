@@ -63,7 +63,7 @@ email: ""
 # Use only the test group if you don't want your profile to be diplayed
 # If you want your profile to be displayed, ask the head of department for which user group to use
 user_groups:
-- Members
+- Former Members
 
 ---
 Leon Y. Xiao is a PhD Fellow at the IT University of Copenhagen and a Visiting Scholar at the School of Law of Queen Mary University of London. He researches video game law, particularly the regulation of loot boxes, a quasi-gambling monetisation mechanic in video games. He has appeared before the Law Commission of England and Wales and submitted policy recommendations to the Spanish, Singaporean, and UK Governments. He has met with and discussed policy, regulation and enforcement with Belgian, Danish, and UK regulators and policymakers.
