@@ -4,7 +4,7 @@ title: Mekler, Elisa
 
 # Username (this should match the folder name)
 authors: 
-Elisa Mekler
+- Elisa Mekler
 
 # Is this the primary user of the site? (don't change)
 superuser: false
