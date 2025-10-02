@@ -33,7 +33,7 @@ abstract: The Finnish game development scene is known not only for its hit games
 
 # Insert here the event start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-10-10T15:00:00Z'
+date: '2025-10-10T16:00:00Z'
 #date_end: '2022-09-15T13:00:00Z'
 all_day: false
 
