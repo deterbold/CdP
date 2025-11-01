@@ -33,7 +33,7 @@ abstract: In the face of the climate crisis, rising inequalities, fascism, and w
 
 # Insert here the event start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-11-06T16:00:00Z'
+date: '2025-11-11T16:00:00Z'
 #date_end: '2022-09-15T13:00:00Z'
 all_day: false
 
