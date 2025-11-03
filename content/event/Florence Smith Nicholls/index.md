@@ -16,7 +16,7 @@ profile: false
 share: false
 
 # Set to true to display the event
-active: false
+active: true
 
 # Change the location and address of the event
 location: IT University of Copenhagen
