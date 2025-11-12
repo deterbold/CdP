@@ -2,7 +2,7 @@
 # REMEMBER TO CHANGE THE FILE TYPE FROM .txt TO .md BEFORE COMMITTING THE ACTIVITY
 
 # Insert here the title of the event
-title: Mytholudics - Games and Myth - a talk by Dom Ford
+title: Mytholudics - Games and Myths - A talk by Dom Ford
 
 # Insert here the type of event or activity
 event: Talk
@@ -28,8 +28,8 @@ address:
   country: 
 
 
-summary: Mytholudics - Games and Myth - a talk by Dom Ford
-abstract: Games create worlds made of many different elements, but also of rules, systems and structures for how we act in them. So how can we make sense of them? Mytholudics: Games and Myth lays out an approach to understanding games using theories from myth and folklore. Myth is understood not as an object or a kind of story, but as a way of expressing meaning, a way in which we produce a model for understanding the world and things in it. This talk lays out this approach and how it can help you analyse and conceptualise gameworlds. The framework helps to see games and their worlds in the whole. Stories, gameplay, systems, rules, spatial configurations and art styles can all be considered together as contributing to the meaning of the game.
+summary: Mytholudics - Games and Myths - A talk by Dom Ford
+abstract: Games create worlds made of many different elements, but also of rules, systems and structures for how we act in them. So how can we make sense of them?Mytholudics: Games and Myth lays out an approach to understanding games using theories from myth and folklore. Myth is understood not as an object or a kind of story, but as a way of expressing meaning, a way in which we produce a model for understanding the world and things in it. This talk lays out this approach and how it can help you analyse and conceptualise gameworlds. The framework helps to see games and their worlds in the whole. Stories, gameplay, systems, rules, spatial configurations and art styles can all be considered together as contributing to the meaning of the game.
 
 # Insert here the event start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
