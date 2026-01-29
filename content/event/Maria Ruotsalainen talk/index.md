@@ -28,8 +28,10 @@ address:
   country: 
 
 
-summary: The rise and fall of the Overwatch League - Understanding desiring production esports
-abstract: In my talk, I focus on esports as a contemporary cultural video game phenomenon through one case: The Overwatch League. The Overwatch League was organized in 2018 - 2024 by the developer of the video game Overwatch, Blizzard Entertainment (2016). The Overwatch League was a franchised esports league, following established sports in many ways in its structure. As teams had to pay substantial sums (from 10 millions upward) to participate in the Overwatch League, Overwatch was seen to be the next big thing in esports, in particular in mainstreaming esports, thus in making esports (and to an extent gaming at large) commercially viable and socially acceptable. However, the Overwatch League was shut down in 2024 and is largely considered as a failed endeavour.
+summary: The rise and fall of the Overwatch League
+
+abstract: In my talk, I focus on esports as a contemporary cultural video game phenomenon through one case: The Overwatch League.
+
 # Insert here the event start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2026-02-06T14:00:00Z'
