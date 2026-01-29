@@ -28,9 +28,9 @@ address:
   country: 
 
 
-summary: The rise and fall of the Overwatch League
+summary: 'The rise and fall of the Overwatch League'
 
-abstract: In my talk, I focus on esports as a contemporary cultural video game phenomenon through one case: The Overwatch League.
+abstract: "In my talk, I focus on esports as a contemporary cultural video game phenomenon through one case: The Overwatch League."
 
 # Insert here the event start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
