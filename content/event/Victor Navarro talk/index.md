@@ -2,7 +2,7 @@
 # REMEMBER TO CHANGE THE FILE TYPE FROM .txt TO .md BEFORE COMMITTING THE ACTIVITY
 
 # Insert here the title of the event
-title: Zen and Slow Games - a talk by Victor Navarro Remesal
+title: The Making of Zen and Slow Games - a talk by Victor Navarro Remesal
 
 # Insert here the type of event or activity
 event: Talk
@@ -28,9 +28,9 @@ address:
   country: 
 
 
-summary: "Zen and Slow Games - a talk by Victor Navarro Remesal"
+summary: "The Making of Zen and Slow Games - a talk by Victor Navarro Remesal"
 
-abstract: "Slowness and reflectiveness have always been part of the video game medium, though they have been used very differently throughout its history. In Zen and Slow Games, Víctor Navarro-Remesal challenges the dominant discourse of action and quick reflexes in video games to offer an analysis of reflectiveness as a style in games, tracing its evolution from its origins to the present time. Two labels are of particular importance: the Zen modes (and later, Zen games) of the 2000s, especially during the Casual Revolution, and the slow games or slow gaming movement, which started in the 2010s and is ongoing today. The term “reflective games” is offered as an umbrella to bring together these and other labels to raise awareness and discussion of slow gaming. The book is the result of a long process that started in 2015, during a research stay t ITU. This talk will focus on the process behind the book, from a conceptual and practical perspective, reflecting on the practices and modes of academia and academic publishing."
+abstract: "Slowness and reflectiveness have always been part of the video game medium, though they have been used very differently throughout its history. In Zen and Slow Games, Víctor Navarro-Remesal challenges the dominant discourse of action and quick reflexes in video games to offer an analysis of reflectiveness as a style in games, tracing its evolution from its origins to the present time. Two labels are of particular importance: the Zen modes (and later, Zen games) of the 2000s, especially during the Casual Revolution, and the slow games or slow gaming movement, which started in the 2010s and is ongoing today. The term “reflective games” is offered as an umbrella to bring together these and other labels to raise awareness and discussion of slow gaming. The book is the result of a long process that started in 2015, during a research stay at the ITU. This talk will focus on the process behind the book, from a conceptual and practical perspective, reflecting on the practices and modes of academia and academic publishing."
 
 # Insert here the event start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
