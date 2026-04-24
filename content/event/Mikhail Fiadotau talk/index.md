@@ -33,7 +33,7 @@ abstract: The field of game design has grown increasingly visible outside of the
 
 # Insert here the event start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-04-29T16:00:00Z'
+date: '2026-04-29T16:00:00Z'
 #date_end: '2022-09-15T13:00:00Z'
 all_day: false
 
