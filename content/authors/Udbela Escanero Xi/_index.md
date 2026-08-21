@@ -79,5 +79,5 @@ user_groups:
 - 
 
 ---
-
-Use this space underneath the '---' to add any information you might want in your personal page. 
+Currently researching existential play and post-apocalyptic/eco-critical scenarios within video games. 
+Focused on aquatic gameworlds and the eco-critique of hydrocolonial logics.
