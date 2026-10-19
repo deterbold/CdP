@@ -2,7 +2,7 @@
 # REMEMBER TO CHANGE THE FILE TYPE FROM .txt TO .md BEFORE COMMITTING THE ACTIVITY
 
 # Insert here the title of the event
-title: The City, The Street, The Lens: Photographic Perspectives on Generative Systems - A Talk by Mike Cook
+title: The City, The Street, The Lens - Photographic Perspectives on Generative Systems - A Talk by Mike Cook
 
 # Insert here the type of event or activity
 event: Talk
