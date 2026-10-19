@@ -38,7 +38,7 @@ date: '2026-09-22T11:00:00Z'
 all_day: false
 
 # Schedule page publish date, put your current date to have it uploaded instanty
-publishDate: '2020-09-15T13:00:00Z'
+publishDate: '2026-09-22T11:00:00Z'
 
 # Don't edit this
 authors: []
