@@ -29,7 +29,7 @@ address:
 
 
 summary: This is why you love LEGO - A talk by Jess Uhre Rahbek
-abstract: To mark the release of his new MIT Press book, This Is Why You Love LEGO, design researcher Jess Uhre Rahbek visits ITU to talk about why some forms of play remain compelling for years — or even decades. The book explores LEGO through the concept of playful tension: the balance between what players can control and what continues to resist, surprise and challenge them. In the talk, Jess connects this idea to game design more broadly, asking what LEGO can teach us about designing systems that stay engaging without becoming either trivial or overwhelming.
+abstract: To mark the release of his new MIT Press book, This Is Why You Love LEGO, design researcher Jess Uhre Rahbek visits ITU to talk about why some forms of play remain compelling for years — or even decades. The book explores LEGO through the concept of playful tension - the balance between what players can control and what continues to resist, surprise and challenge them. In the talk, Jess connects this idea to game design more broadly, asking what LEGO can teach us about designing systems that stay engaging without becoming either trivial or overwhelming.
 
 
 # Insert here the event start and end times.
