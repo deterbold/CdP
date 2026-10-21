@@ -19,7 +19,7 @@ share: false
 active: true
 
 # Change the location and address of the event
-location: IT University of Copenhagen, room TBA
+location: IT University of Copenhagen, Auditorium 2
 address: 
   street: 
   city: 
